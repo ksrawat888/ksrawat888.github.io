@@ -1,2 +1,6 @@
 # Karan_Rawat-Portfolio
-Data Analytics Portfolio 
+**INTRODUCTION**
+Hi, I'm Karan! I'm a passionate data analyst with a keen interest in uncovering insights, solving problems, and deriving meaningful conclusions from all kinds of different data types. In this repository, I have curated a collection of my data analysis projects that showcase my analytical skills, proficiency in various tools and techniques, and a commitment to delivering actionable insights. I believe that data has stories to tell, and through effeicient analysis, visualization, and interpretation, these stories can drive informed decision-making and foster innovation. Each project here reflects my dedication to extracting actionable insights that add value and drive positive outcomes.
+
+**ABOUT ME**
+I currently pursuing a graduate degree in Management Information Systems (MSIS). I have developed an interest in the field of Data Analytics through my course after learning of machine learning models and preditice analysis. I have a curiosity to explore datasets and extract valuable insights through data cleaning, data analysis and data visualization. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
