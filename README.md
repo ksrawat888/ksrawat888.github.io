@@ -4,3 +4,5 @@ Hi, I'm Karan! I'm a passionate data analyst with a keen interest in uncovering 
 
 **ABOUT ME**
 I currently pursuing a graduate degree in Management Information Systems (MSIS). I have developed an interest in the field of Data Analytics through my courses after learning of machine learning models and preditice analysis. I have a curiosity to explore datasets and extract valuable insights through data cleaning, data analysis and data visualization. I am excited to apply my technical and analytical skills to widen my horizons and dive deep in the world of Data Analytics. 
+
+BELOW ARE MY Projects: 
