@@ -9,7 +9,7 @@ I currently pursuing a graduate degree in Management Information Systems (MSIS).
 
 1) Spotify Music Analytics 2023: [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/88e904a23da7bdb72aed5963355f232bd8963222/Spotify%202023-%20Data%20Visualizations.ipynb)
 
-In this project, I analyzed a dataset of the most famous songs of 2023 as listed on Spotify using Python. Dataset was retrieved from Kaggle: (https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+In this project, I analyzed a dataset of the most famous songs of 2023 as listed on Spotify using Python. Dataset was retrieved from Kaggle: ([https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023))
 
 **GOALS:**
 1) Which artist’s songs had the overall most streams (Top 10)?
