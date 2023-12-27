@@ -18,4 +18,9 @@ In this project, I analyzed a dataset of the most famous songs of 2023 as listed
 
 **Technologies Used:** Python Module: Pandas, Matplotlib, Seaborn, Wordcloud 
 
-2) India Population: Visualization through Geo Spatial Data: 
+2) India Population: Visualization through Geo Spatial Data: Click [Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
+In this project, I explored the population and other attributes for the country of India. I visualized these attributes through geospatial data and plotted them on interactive maps
+
+**GOALS:** Visualize population of India and other attributes on geogrpahic maps using geospatial data
+
+**Technologies Used:** Pandas, GeoPandas, Matplotlib(pyplot), plotly(express), Numpy
