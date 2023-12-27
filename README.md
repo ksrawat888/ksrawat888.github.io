@@ -7,15 +7,14 @@ I currently pursuing a graduate degree in Management Information Systems (MSIS).
 
 **PROJECTS**
 
-1) Spotify Music Analytics 2023: [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/88e904a23da7bdb72aed5963355f232bd8963222/Spotify%202023-%20Data%20Visualizations.ipynb)
+*1) Spotify Music Analytics 2023:* [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/88e904a23da7bdb72aed5963355f232bd8963222/Spotify%202023-%20Data%20Visualizations.ipynb)
 
-In this project, I analyzed a dataset of the most famous songs of 2023 as listed on Spotify using Python. Dataset was retrieved from Kaggle: ([https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023))
+**Goals:** In this project, I analyzed a dataset of the most streamed songs of 2023 as listed on Spotify using Python.
 
 **Technologies Used:** Python Programming and modules: Pandas, Matplotlib, Seaborn, Wordcloud 
 
-2) India Population: Visualization through Geo Spatial Data: Click [Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
-In this project, I explored the population and other attributes for the country of India. I visualized these attributes through geospatial data and plotted them on interactive maps
+*2) India Population: Visualization through Geo Spatial Data:* [India Population Visualization](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
 
-**GOALS:** Visualize population of India and other attributes on geogrpahic maps using geospatial data
+**Goals:** In this project, I explored the population and other attributes for the country of India. I visualized these attributes through geospatial data and plotted them on interactive maps
 
 **Technologies Used:** Pandas, GeoPandas, Matplotlib(pyplot), plotly(express), Numpy
