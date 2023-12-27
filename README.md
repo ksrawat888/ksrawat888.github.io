@@ -11,12 +11,7 @@ I currently pursuing a graduate degree in Management Information Systems (MSIS).
 
 In this project, I analyzed a dataset of the most famous songs of 2023 as listed on Spotify using Python. Dataset was retrieved from Kaggle: ([https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023))
 
-**GOALS:**
-1) Which artist’s songs had the overall most streams (Top 10)?
-2) Does the number of featured artists in a song relate to its success on streaming numbers?
-3) Is there a correlation between the number of charts/playlists a song is added to and its streams?
-
-**Technologies Used:** Python Module: Pandas, Matplotlib, Seaborn, Wordcloud 
+**Technologies Used:** Python Programming and modules: Pandas, Matplotlib, Seaborn, Wordcloud 
 
 2) India Population: Visualization through Geo Spatial Data: Click [Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
 In this project, I explored the population and other attributes for the country of India. I visualized these attributes through geospatial data and plotted them on interactive maps
