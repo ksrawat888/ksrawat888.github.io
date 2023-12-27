@@ -17,3 +17,5 @@ In this project, I analyzed a dataset of the most famous songs of 2023 as listed
 3) Is there a correlation between the number of charts/playlists a song is added to and its streams?
 
 **Technologies Used:** Python Module: Pandas, Matplotlib, Seaborn, Wordcloud 
+
+2) India Population: Visualization through Geo Spatial Data: 
