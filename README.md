@@ -21,8 +21,9 @@ I currently pursuing a graduate degree in Management Information Systems (MSIS).
 *Technologies Used:* Pandas, GeoPandas, Matplotlib(pyplot), plotly(express), Numpy
 
 **3) SQL Project:** [Exploring data stored in tables](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/SQL%20Portfolio.pdf)
-![Example Image] (https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/SQL%20Code.png) 
 
-*Goals:* This SQL project involves analyzing data from two primary tables, "People" and "States." The "People" table contains detailed information about individuals, including personal attributes, quiz performance, and affiliations, while the "States" table provides data about different states along with their regions and divisions. I explored the data using SQL queries to ge insights into participant demographics, performance trends, and state-wise distributions of the data. 
+![SQL Code](https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/SQL%20Code.png)
+
+*Goals:* This SQL project involves analyzing data from two primary tables, "People" and "States." The "People" table contains detailed information about individuals, including personal attributes, quiz performance, and affiliations, while the "States" table provides data about different states along with their regions and divisions. I explored the data using SQL queries to get insights into participant demographics, performance trends, and state-wise distributions of the data. 
 
 *Technologies Used:* MySQL, SQLite, Data Modeling (ER diagram) 
