@@ -9,8 +9,10 @@ I currently pursuing a graduate degree in Management Information Systems (MSIS).
 
 **1) Spotify Music Analytics 2023:** [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/88e904a23da7bdb72aed5963355f232bd8963222/Spotify%202023-%20Data%20Visualizations.ipynb)
 
-<img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Spotify_icon.png" width="250" height="250">            <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/heatmap.png" width="450" height="300">
-
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Spotify_icon.png" width="250" height="250">
+  <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/heatmap.png" width="450" height="300">
+</div>
 
 *Goals:* In this project, I analyzed a dataset of the most streamed songs of 2023 as listed on Spotify using Python.
 
