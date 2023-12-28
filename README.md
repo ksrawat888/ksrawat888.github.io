@@ -1,7 +1,5 @@
 # Karan Singh Rawat- Data Analytics Portfolio
 
-<img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/1645568756788.jpg" width="250" height="250">
-
 **INTRODUCTION**
 Hi, I'm Karan! I'm a passionate data analyst with a keen interest in uncovering insight and deriving meaningful conclusions from different types of data. In this repository, I have curated a collection of my data analysis projects that showcase my proficiency in various tools and techniques, and a commitment to delivering actionable insights. I believe that data has stories to tell, and through efficient analysis, visualization, and interpretation, these stories can drive informed decision-making and foster innovation.
 
