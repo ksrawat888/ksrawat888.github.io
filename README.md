@@ -1,15 +1,17 @@
 # Karan Singh Rawat- Data Analytics Portfolio
 
 **INTRODUCTION**
-Hi, I'm Karan! I'm a passionate data analyst with a keen interest in uncovering insight and deriving meaningful conclusions from different types of data. In this repository, I have curated a collection of my data analysis projects that showcase my proficiency in various tools and techniques, and a commitment to delivering actionable insights. I believe that data has stories to tell, and through efficient analysis, visualization, and interpretation, these stories can drive informed decision-making and foster innovation.
+Hello, I'm Karan! I'm a passionate data analyst with a keen interest in uncovering insight and deriving meaningful conclusions from different types of data. I am currently pursuing a graduate degree in Management Information Systems (MSIS). I developed an interest in the field of Data Analytics through my university courses. I have a curiosity to explore datasets and extract valuable insights through data cleaning, data analysis and data visualization. 
 
-I am currently pursuing a graduate degree in Management Information Systems (MIS). I developed an interest in the field of Data Analytics through my university courses. I have a curiosity to explore datasets and extract valuable insights through data cleaning, data analysis and data visualization. I am excited to apply my technical and analytical skills to widen my horizons and dive deep in the world of Data Analytics. 
+In this repository, I have curated a collection of my data analysis projects that showcase my proficiency in various tools and techniques, and a commitment to delivering actionable insights. I believe that data has stories to tell, and through efficient analysis, visualization, and interpretation, these stories can drive informed decision-making. 
+
+
 
 **CONTACT**
 
 Email Address: karansingh.rawat888atgmail(dot)com
 
-Linkedin: [Click Here](www.linkedin.com/in/karan-singh-rawat-ba6412138)
+Linkedin: [Click Here](https://www.linkedin.com/in/karansrawat)
 
 Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
