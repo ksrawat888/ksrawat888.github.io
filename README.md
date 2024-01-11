@@ -17,7 +17,7 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
 **PROJECTS**
 
-**1) Spotify Music Analytics 2023:** [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/88e904a23da7bdb72aed5963355f232bd8963222/Spotify%202023-%20Data%20Visualizations.ipynb)
+**1) Spotify Music Analytics 2023:** [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888.io/blob/88e904a23da7bdb72aed5963355f232bd8963222/Spotify%202023-%20Data%20Visualizations.ipynb)
 
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Spotify_icon.png" width="250" height="250">
@@ -29,7 +29,7 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 *Technologies Used:* Python Programming and modules: Pandas, Matplotlib, Seaborn, Wordcloud 
 
 **2) India Population: Visualization through Geo Spatial Data:** [India Population Visualization](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
-<iframe src= "https://ksrawat888.github.io/Karan_Rawat-Portfolio/population_choropleth.html" width="600" height="400"></iframe>
+<iframe src= "https://github.com/ksrawat888/ksrawat888.github.io/blob/main/population_choropleth.html" width="600" height="400"></iframe>
 
 *Goals:* In this project, I explored the population and other attributes for the country of India. I visualized these attributes through geospatial data and plotted them on interactive maps
 
