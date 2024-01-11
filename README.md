@@ -29,7 +29,7 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 *Technologies Used:* Python Programming and modules: Pandas, Matplotlib, Seaborn, Wordcloud 
 
 **2) India Population: Visualization through Geo Spatial Data:** [India Population Visualization](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
-<iframe src= "https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/population_choropleth.html" width="600" height="400"></iframe>
+<iframe src= "https://github.com/ksrawat888/ksrawat888.github.io/blob/main/population_choropleth.html" width="600" height="400"></iframe>
 
 *Goals:* In this project, I explored the population and other attributes for the country of India. I visualized these attributes through geospatial data and plotted them on interactive maps
 
