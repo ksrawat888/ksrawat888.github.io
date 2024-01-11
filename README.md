@@ -17,7 +17,7 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
 **PROJECTS**
 
-**1) Spotify Music Analytics 2023:** [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888.io/blob/88e904a23da7bdb72aed5963355f232bd8963222/Spotify%202023-%20Data%20Visualizations.ipynb)
+**1) Spotify Music Analytics 2023:** [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/ksrawat888.github.io/blob/main/Spotify%202023-%20Data%20Visualizations.ipynb)
 
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Spotify_icon.png" width="250" height="250">
