@@ -17,7 +17,16 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
 **PROJECTS**
 
-**1) Spotify Music Analytics 2023:** [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/ksrawat888.github.io/blob/main/Spotify%202023-%20Data%20Visualizations.ipynb)
+**1) Healthcare Analytics- Maternal Health Risk Data: **[Maternal Health Risk Data](https://github.com/ksrawat888/ksrawat888.github.io/blob/main/Maternal%20health%20Risk%20Data.ipynb)
+<div style="display: flex;">
+  <img src="https://github.com/ksrawat888/ksrawat888.github.io/blob/main/healthcare%20Analytics.jpg" width="250" height="250">
+</div>
+
+*Goals:* In this project, I analyzed a dataset categorizing a woman's maternity health into different risk categories based on other health features using Python and deployed machine Learning models to predict and categorize women's pregnancy risk levels.
+
+*Technologies Used:* Python Programming and modules: Pandas, Matplotlib, Seaborn, Numpy, Scikit-Learn 
+
+**2) Spotify Music Analytics 2023:** [Most Streamed Spotify Songs 2023](https://github.com/ksrawat888/ksrawat888.github.io/blob/main/Spotify%202023-%20Data%20Visualizations.ipynb)
 
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Spotify_icon.png" width="250" height="250">
