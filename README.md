@@ -5,8 +5,6 @@ Hello, I'm Karan! I'm a passionate data analyst with a keen interest in uncoveri
 
 In this repository, I have curated a collection of my data analysis projects that showcase my proficiency in various tools and techniques, and a commitment to delivering actionable insights. I believe that data has stories to tell, and through efficient analysis, visualization, and interpretation, these stories can drive informed decision-making. 
 
-
-
 **CONTACT**
 
 Email Address: karansingh.rawat888atgmail(dot)com
@@ -17,9 +15,10 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
 **PROJECTS**
 
-**1) Healthcare Analytics- Maternal Health Risk Data: **[Maternal Health Risk Data](https://github.com/ksrawat888/ksrawat888.github.io/blob/main/Maternal%20health%20Risk%20Data.ipynb)
+**1) Healthcare Analytics- Maternal Health Risk Data:** [Maternal Health Risk Data](https://github.com/ksrawat888/ksrawat888.github.io/blob/main/Maternal%20health%20Risk%20Data.ipynb)
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/healthcare%20Analytics.jpg" width="250" height="250">
+  <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Training%20Vs%20Testing.png" width="450" height="300">
 </div>
 
 *Goals:* In this project, I analyzed a dataset categorizing a woman's maternity health into different risk categories based on other health features using Python and deployed machine Learning models to predict and categorize women's pregnancy risk levels.
@@ -37,14 +36,14 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
 *Technologies Used:* Python Programming and modules: Pandas, Matplotlib, Seaborn, Wordcloud 
 
-**2) India Population: Visualization through Geo Spatial Data:** [India Population Visualization](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
+**3) India Population: Visualization through Geo Spatial Data:** [India Population Visualization](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/India%20population-%20Geo%20Spatial%20.py) 
 <iframe src="https://ksrawat888.github.io/population_choropleth.html" width="600" height="400"></iframe>
 
 *Goals:* In this project, I explored the population and other attributes for the country of India. I visualized these attributes through geospatial data and plotted them on interactive maps
 
 *Technologies Used:* Pandas, GeoPandas, Matplotlib(pyplot), plotly(express), Numpy
 
-**3) SQL Project:** [Exploring data stored in tables](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/SQL%20Portfolio.pdf)
+**4) SQL Project:** [Exploring data stored in tables](https://github.com/ksrawat888/Karan_Rawat-Portfolio/blob/main/SQL%20Portfolio.pdf)
 
 ![SQL Code](https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/SQL%20Code.png)
 
@@ -52,7 +51,7 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
 *Technologies Used:* MySQL
 
-**4) Tableau: Global COVID-19 Dashboard** [Global COVID-19 Dashboard](https://public.tableau.com/app/profile/karan.rawat8623/viz/GlobalCOVID-19Dashboard_17041653241670/COVID-19GLOBALVIEW#1)
+**5) Tableau: Global COVID-19 Dashboard** [Global COVID-19 Dashboard](https://public.tableau.com/app/profile/karan.rawat8623/viz/GlobalCOVID-19Dashboard_17041653241670/COVID-19GLOBALVIEW#1)
 
 <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Tableau-Emblem.png" width="350" height="200">
 
