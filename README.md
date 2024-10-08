@@ -17,7 +17,7 @@ Github: [Click Here](https://github.com/ksrawat888/Karan_Rawat-Portfolio)
 
 **1) Healthcare Analytics- Maternal Health Risk Data:** [Maternal Health Risk Data](https://github.com/ksrawat888/ksrawat888.github.io/blob/main/Maternal%20health%20Risk%20Data.ipynb)
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/healthcare%20Analytics.jpg" width="250" height="250">
+  <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/healthcare%20Analytics.jpg" width="450" height="300">
   <img src="https://raw.githubusercontent.com/ksrawat888/Karan_Rawat-Portfolio/main/Training%20Vs%20Testing.png" width="450" height="300">
 </div>
 
